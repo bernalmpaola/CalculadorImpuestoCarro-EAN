@@ -1,12 +1,6 @@
 /**
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- * Universidad Ean (Bogotá - Colombia)
- * Programa de Ingeniería de Sistemas
- * Licenciado bajo el esquema Academic Free License version 2.1
- * <p>
- * Bloque de Estudios: Desarrollo de Software
- * Ejercicio: Cálculo de Impuestos de Carros
- * Adaptado de: Proyecto CUPI2 - UNIANDES
+ 
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
 package universidadean.impuestoscarro.interfaz;
